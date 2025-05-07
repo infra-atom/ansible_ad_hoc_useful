@@ -1,0 +1,1 @@
+# ansible_ad_hoc_useful
